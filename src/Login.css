@@ -1,15 +1,11 @@
-.space {
-  margin-left: 50px;
-}
-
 .sub {
   display: block;
 }
-#sign {
+#main {
   margin: 5%;
   margin-left: 500px;
 }
-form > .signup {
+form > div {
   margin-bottom: 30px;
 }
 .inp {
@@ -19,20 +15,14 @@ form > .signup {
 }
 #btn {
   background-color: green;
-  border: 1px solid black;
-  text-decoration: none;
+  color: white;
+  cursor: pointer;
+  width: 408px;
+  height: 30px;
 }
 #log {
   display: inline;
 }
-hr {
-  width: 400px;
-  margin-right: 400px;
-}
-.fm {
-  background-color: rgb(247, 242, 242);
-  width: 408px;
-}
-.h1 {
+.h2 {
   color: red;
 }

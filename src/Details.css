@@ -1,0 +1,26 @@
+.first {
+  margin: 0 auto;
+}
+table {
+  margin: 0 auto;
+}
+.subdiv {
+  margin-left: 510px;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 0 1em;
+}
+.btn1 {
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
+.first {
+  background-color: whitesmoke;
+}
+th {
+  color: red;
+  font-size: 30px;
+  border: 2px dotted black;
+}
